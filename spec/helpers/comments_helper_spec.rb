@@ -12,4 +12,6 @@ require 'rails_helper'
 # end
 RSpec.describe CommentsHelper, type: :helper do
   pending "add some examples to (or delete) #{__FILE__}"
+# describe "
+
 end
